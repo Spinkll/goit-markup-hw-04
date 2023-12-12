@@ -43,6 +43,7 @@ a {
 ul {
   list-style-type: none;
   box-sizing: border-box;
+  padding: 0;
 }
 
 header {
@@ -442,7 +443,6 @@ a:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
-  margin-bottom: 20px;
 }
 
 .footer-social-list {
