@@ -10,6 +10,11 @@ body {
   width: 1158px;
 }
 
+.inform-footer .footer-social-links {
+  display: flex;
+  align-items: baseline;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -458,7 +463,10 @@ a:focus {
   height: 40px;
 }
 
-.container-footer {
+.content-wrapper {
   display: flex;
   align-items: baseline;
+  margin: 0 auto;
+  padding: 0 15px;
+  width: 1158px;
 }
